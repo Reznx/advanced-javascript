@@ -1,0 +1,31 @@
+{
+  "name": "deep_javascript",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reznx/advanced-javascript.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "George Reznik <nereznik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reznx/advanced-javascript/issues"
+  },
+  "homepage": "https://github.com/Reznx/advanced-javascript#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
